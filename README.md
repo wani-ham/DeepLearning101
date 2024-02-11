@@ -12,5 +12,5 @@
 
 6. [PCA](https://github.com/wani-ham/DeepLearning101/blob/main/PCA.ipynb)
 
-7. Jellyfish Classifier Model
+7. [Jellyfish Classifier Model](https://github.com/wani-ham/DeepLearning101/blob/main/JellyfishModel_TaewanHam.ipynb)
 
